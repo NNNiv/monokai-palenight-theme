@@ -1,0 +1,22 @@
+{
+    "author": "NNNiv",
+    "name": "monokai-palenight",
+    "displayName": "Monokai Palenight",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Palenight ",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Palenight -color-theme.json"
+            }
+        ]
+    }
+}
