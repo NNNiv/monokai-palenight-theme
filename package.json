@@ -1,15 +1,22 @@
 {
-    "author": "NNNiv",
     "name": "monokai-palenight",
     "displayName": "Monokai Palenight",
     "description": "",
     "version": "0.0.1",
+    "publisher": "NNNiv",
     "engines": {
         "vscode": "^1.57.0"
+    },
+    "author": {
+        "name": "NNNiv"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NNNiv/monokai-palenight-theme"
+    },
     "contributes": {
         "themes": [
             {

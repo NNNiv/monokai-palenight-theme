@@ -13,6 +13,7 @@
         "tab.inactiveBackground": "#232738",
         "tab.border": "#232735",
         "tab.hoverBackground": "#232738",
+		"titleBar.activeBackground": "#2d3144",
         "sideBarSectionHeader.background": "#232734",
         "terminal.background": "#232735",
 		"statusBar.background": "#221f22",
